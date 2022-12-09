@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(224, 228, 227);
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    background-color: rgb(2, 165, 118);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+div {
+    margin: 10px 0;
+    text-align: center;
+}
+
+details {
+    text-align: center;
+}
+
+input[type=text] {
+    padding: 5px 0;
+}

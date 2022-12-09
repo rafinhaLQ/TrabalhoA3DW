@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(131, 211, 188);
+}
+
+h1 {
+    color: rgb(2, 165, 118);
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    margin: 10px 0;
+    text-align: center;
+}

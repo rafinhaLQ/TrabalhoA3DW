@@ -1,0 +1,74 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nomeAluno": "Lívia Mascarenhas",
+      "cpfAluno": "067.884.950-17",
+      "numeroMatricula": "20221",
+      "notaModulo1": "6",
+      "notaModulo2": "8",
+      "notaModulo3": "",
+      "salaModulo": "3"
+    },
+    {
+      "id": 2,
+      "nomeAluno": "Pedro Junior",
+      "cpfAluno": "725.071.550-00",
+      "numeroMatricula": "20222",
+      "notaModulo1": "9",
+      "notaModulo2": "6",
+      "notaModulo3": "",
+      "salaModulo": "2"
+    },
+    {
+      "id": 3,
+      "nomeAluno": "Gustavo Aguiar",
+      "cpfAluno": "885.384.950-97",
+      "numeroMatricula": "20223",
+      "notaModulo1": "5",
+      "notaModulo2": "6",
+      "notaModulo3": "",
+      "salaModulo": "3"
+    },
+    {
+      "id": 4,
+      "nomeAluno": "Camila Cerqueira",
+      "cpfAluno": "398.286.450-09",
+      "numeroMatricula": "20224",
+      "notaModulo1": "9",
+      "notaModulo2": "",
+      "notaModulo3": "",
+      "salaModulo": "1"
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nomeProfessor": "Jéssica Arruda",
+      "cpfProfessor": "552.295.620-80",
+      "tituloAcademico": "Mestrado",
+      "disciplina": "Biologia"
+    },
+    {
+      "id": 2,
+      "nomeProfessor": "Carlos Silva",
+      "cpfProfessor": "655.579.960-95",
+      "tituloAcademico": "Doutorado",
+      "disciplina": "Física"
+    },
+    {
+      "id": 3,
+      "nomeProfessor": "Giorno Giovanna",
+      "cpfProfessor": "276.781.230-35",
+      "tituloAcademico": "Graduação",
+      "disciplina": "Matemática"
+    },
+    {
+      "id": 4,
+      "nomeProfessor": "Henrique Castro",
+      "cpfProfessor": "958.261.130-81",
+      "tituloAcademico": "Graduação",
+      "disciplina": "Geografia"
+    }
+  ]
+}
